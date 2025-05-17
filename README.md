@@ -1,7 +1,7 @@
 dprint pre-commit mirror
 ========================
 
-*Adopted from https://github.com/adamchainz/pre-commit-dprint. Thanks to [@adamchainz](git@github.com:spinergie/pre-commit-dprint.git) for their work!*
+*Adopted from https://github.com/adamchainz/pre-commit-dprint. Thanks to [@adamchainz](https://github.com/adamchainz) for their work!*
 
 ----
 
@@ -13,7 +13,7 @@ Installation
 Add to your pre-commit config:
 
 ```yaml
--   repo: https://github.com/adamchainz/pre-commit-dprint
+-   repo: https://github.com/spinergie/pre-commit-dprint
     rev: ''  # Use the sha / tag you want to point at
     hooks:
     -   id: dprint
