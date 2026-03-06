@@ -1,7 +1,7 @@
 -   id: dprint
     name: dprint
     description: 'A pluggable and configurable code formatting platform written in Rust.'
-    entry: dprint fmt
+    entry: dprint fmt --allow-no-files
     language: node
     'types': [text]
     args: []
